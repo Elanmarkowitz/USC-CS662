@@ -33,3 +33,93 @@ Sep 8
 : Nonlinear classifiers, backpropagation, gradient descent
   : Eisenstein 3
 : **HW1 out (due 9/29)**{: .label}
+
+Sep 13
+: POS tags, HMMs
+  : Eisenstein 7
+
+Sep 15
+: YOM KIPPUR NO CLASS
+
+Sep 20
+: constituencies, cky, treebank
+  : Eisenstein 9.2, 10
+
+Sep 22
+: restructuring, dependencies, shift-reduce
+  : Eisenstein 11
+
+Sep 27
+: arc-eager, evaluation, human annotation
+
+Sep 29
+: semantics: word sense, propbank, amr, distributional
+  : Eisenstein 13, 14.
+: **HW1 due**{: .label .label-red}
+
+Oct 4
+: language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
+  : Eisenstein 6, 18.1, 18.2
+: **HW2 out (due 10/25)**{: .label}
+
+Oct 6
+: Statistical, Neural Machine Translation, summarization, generation
+  : Eisenstein 18.3, 19.1, 19.2
+
+Oct 11
+: Transformers
+  : [Attention is all you need](https://arxiv.org/abs/1706.03762), \
+  [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+Oct 13
+: Large Contextualized Language Models (ElMo, BERT, GPT-N, etc.)
+  : [Illustrated BERT, ElMo, and co.](http://jalammar.github.io/illustrated-bert/)
+
+Oct 18
+: Guest Lecture TBD
+
+Oct 20
+: Guest Lecture TBD
+
+Oct 25
+: Information Extraction: Entity/Relation, CRF
+  : Eisenstein 17.1, 17.2
+: **HW2 due**{: .label .label-red}
+
+Oct 27
+: Information Extraction: Events, Zero-shot
+  : Eisenstein 17.3
+: **HW3 out (due 11/17)**{: .label}
+
+Nov 1
+: Blade Runner NLP/Bertology
+
+Nov 3
+: Dialogue
+  : Eisenstein 19.3
+
+Nov 8
+: Text Games and Reinforcement Learning
+
+Nov 10
+: Power and Ethics
+
+Nov 15
+: How to write a paper
+  : Neubig slides on Piazza
+
+Nov 17
+: TBD
+: **HW3 due**{: .label .label-red}
+
+Nov 22
+: TBD
+
+Nov 24
+: THANKSGIVING BREAK; NO CLASS
+
+Nov 29
+: Project presentations
+
+Dec 1
+: Project presentations
