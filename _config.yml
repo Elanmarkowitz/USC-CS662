@@ -18,7 +18,7 @@ tagline: CS662
 description: Advanced Natural Language Processing
 author: Jon May
 baseurl: ''
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://Elanmarkowitz.github.io/USC-CS662' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
