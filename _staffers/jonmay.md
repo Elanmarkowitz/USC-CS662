@@ -1,5 +1,5 @@
 ---
-name: Jonathon May
+name: Jonathan May
 role: Instructor
 email: jonmay@isi.edu
 website: https://viterbi.usc.edu/directory/faculty/May/Jonathan

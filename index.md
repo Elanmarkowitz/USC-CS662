@@ -26,7 +26,14 @@ seo:
 {{ staffer }}
 {% endfor %} -->
 
-Topics (subject to change per instructor/class whim) (will not be presented in this order):
+### Lectures 
+Monday and Wednesday 3:30–5:20 pm, KAP 166
+
+### Textbook
+Required: [Natural Language Processing - Eisenstein](https://mitpress.mit.edu/books/introduction-natural-language-processing)
+-- or [free version](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+### Topics 
+(subject to change per instructor/class whim) (will not be presented in this order):
 
   : Linguistic Stack (graphemes/phones - words - syntax - semantics - pragmatics - discourse)
   : Tools\:
