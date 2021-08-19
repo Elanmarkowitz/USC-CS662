@@ -4,136 +4,136 @@ title: Schedule of Classes
 
 Aug 23
 : intro, applications
-  : Eisenstein 1
+: Eisenstein 1
 : **project assignment out (due 9/1)**{: .label}
 
 
 Aug 25
 : end of intro, probability basics
-  : Eisenstein Appendix A,\
-  [Goldwater probability tutorial](http://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf)
+: Eisenstein Appendix A,\
+[Goldwater probability tutorial](http://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf)
 
 Aug 30
 : ethics, naive bayes, text processing
-  : Eisenstein 2.1,\
-  [Nathan Schneider's unix notes](https://github.com/nschneid/unix-text-commands),\
-  [Unix for poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf),\
-  [sculpting text](http://matt.might.net/articles/sculpting-text/)
+: Eisenstein 2.1,\
+[Nathan Schneider's unix notes](https://github.com/nschneid/unix-text-commands),\
+[Unix for poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf),\
+[sculpting text](http://matt.might.net/articles/sculpting-text/)
 
 Sep 1
 : Perceptron, Logistic Regression
-  : Eisenstein 2.2, 2.4,\
-  Charniak 1.
+: Eisenstein 2.2, 2.4,\
+Charniak 1.
 : **project proposal due**{: .label .label-red }
 
 Sep 6
 : LABOR DAY NO CLASS
-  : 
+: 
 
 Sep 8
 : Nonlinear classifiers, backpropagation, gradient descent
-  : Eisenstein 3
+: Eisenstein 3
 : **HW1 out (due 9/29)**{: .label}
 
 Sep 13
 : language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
-  : Eisenstein 6, 18.1, 18.2
+: Eisenstein 6, 18.1, 18.2
   
 Sep 15
 : YOM KIPPUR NO CLASS
-  : 
+: 
 
 Sep 20
 : Statistical, Neural Machine Translation, summarization, generation
-  : Eisenstein 18.3, 19.1, 19.2
+: Eisenstein 18.3, 19.1, 19.2
   
 Sep 22
 : Transformers
-  : [Attention is all you need](https://arxiv.org/abs/1706.03762), \
-  [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+: [Attention is all you need](https://arxiv.org/abs/1706.03762), \
+[Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 Sep 27
 : Large Contextualized Language Models (ElMo, BERT, GPT-N, etc.)
-  : [Illustrated BERT, ElMo, and co.](http://jalammar.github.io/illustrated-bert/)
+: [Illustrated BERT, ElMo, and co.](http://jalammar.github.io/illustrated-bert/)
   
 Sep 29
-  : POS tags, HMMs
-  : Eisenstein 7
+: POS tags, HMMs
+: Eisenstein 7
 : **HW1 due**{: .label .label-red}
 
 Oct 4
- : constituencies, cky, treebank
-  : Eisenstein 9.2, 10
+: constituencies, cky, treebank
+: Eisenstein 9.2, 10
 : **HW2 out (due 10/25)**{: .label}
 
 Oct 6
- : restructuring, dependencies, shift-reduce
-  : Eisenstein 11
+: restructuring, dependencies, shift-reduce
+: Eisenstein 11
 
 Oct 11
 : arc-eager, evaluation, human annotation
-  : 
+: 
 
 Oct 13
-  : semantics: word sense, propbank, amr, distributional
-  : Eisenstein 13, 14.
+: semantics: word sense, propbank, amr, distributional
+: Eisenstein 13, 14.
   
 Oct 18
 : Information Extraction: Entity/Relation, CRF
-  : Eisenstein 17.1, 17.2
+: Eisenstein 17.1, 17.2
 
 Oct 20
- : Information Extraction: Events, Zero-shot
-  : Eisenstein 17.3
+: Information Extraction: Events, Zero-shot
+: Eisenstein 17.3
 
 Oct 25
 : Blade Runner NLP/Bertology
-  : 
+: 
 : **HW2 due**{: .label .label-red}
 
 Oct 27
 : Dialogue
-  : Eisenstein 19.3
+: Eisenstein 19.3
 : **HW3 out (due 11/17)**{: .label}
 
 Nov 1
 : Text Games and Reinforcement Learning
-  : 
-  : **Project Report Version 1 due**{: .label .label-red}
+: 
+: **Project Report Version 1 due**{: .label .label-red}
 
 Nov 3
 : Power and Ethics
-  : 
+: 
 
 Nov 8
 : Guest Lecture TBD
-  : 
+: 
 
 Nov 10
 : Guest Lecture TBD
-  :  
+:  
 
 Nov 15
 : How to write a paper
-  : Neubig slides on Piazza
+: Neubig slides on Piazza
 
 Nov 17
 : TBD
-  : 
+: 
 : **HW3 due**{: .label .label-red}
 
 Nov 22
 : TBD
-  : 
+: 
 
 Nov 24
 : THANKSGIVING BREAK; NO CLASS
-  : 
+: 
 
 Nov 29
 : Project presentations
-  : 
+: 
 
 Dec 1
 : Project presentations
-  : 
+: 
