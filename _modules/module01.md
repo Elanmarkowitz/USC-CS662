@@ -28,6 +28,7 @@ Sep 1
 
 Sep 6
 : LABOR DAY NO CLASS
+  : 
 
 Sep 8
 : Nonlinear classifiers, backpropagation, gradient descent
@@ -40,6 +41,7 @@ Sep 13
 
 Sep 15
 : YOM KIPPUR NO CLASS
+  : 
 
 Sep 20
 : constituencies, cky, treebank
@@ -51,6 +53,7 @@ Sep 22
 
 Sep 27
 : arc-eager, evaluation, human annotation
+  : 
 
 Sep 29
 : semantics: word sense, propbank, amr, distributional
@@ -77,9 +80,11 @@ Oct 13
 
 Oct 18
 : Guest Lecture TBD
+  : 
 
 Oct 20
 : Guest Lecture TBD
+  : 
 
 Oct 25
 : Information Extraction: Entity/Relation, CRF
@@ -93,6 +98,7 @@ Oct 27
 
 Nov 1
 : Blade Runner NLP/Bertology
+  : 
 
 Nov 3
 : Dialogue
@@ -100,9 +106,11 @@ Nov 3
 
 Nov 8
 : Text Games and Reinforcement Learning
+  : 
 
 Nov 10
 : Power and Ethics
+  : 
 
 Nov 15
 : How to write a paper
@@ -110,16 +118,21 @@ Nov 15
 
 Nov 17
 : TBD
+  : 
 : **HW3 due**{: .label .label-red}
 
 Nov 22
 : TBD
+  : 
 
 Nov 24
 : THANKSGIVING BREAK; NO CLASS
+  : 
 
 Nov 29
 : Project presentations
+  : 
 
 Dec 1
 : Project presentations
+  : 
