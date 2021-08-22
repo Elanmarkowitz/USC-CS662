@@ -6,4 +6,4 @@ website:
 photo: elanmarkowitz.JPG
 ---
 
-Office Hours: TBD
+Office Hours: Mondays and Wednesdays, 12:00pm--1:00pm, location TBD
