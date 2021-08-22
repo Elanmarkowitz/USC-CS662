@@ -12,19 +12,17 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-### Instructors
+### Staff
 
-{% assign instructors = site.staffers %}
-{% for staffer in instructors %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %} 
+{% for staffer in instructors %} 
 {{ staffer }}
 {% endfor %}
-
-<!-- ### Teaching Assistants
 
 {% assign TAs = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% for staffer in TAs %}
 {{ staffer }}
-{% endfor %} -->
+{% endfor %}
 
 ### Lectures 
 Monday and Wednesday 3:30–5:20 pm, KAP 166
