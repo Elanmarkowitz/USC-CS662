@@ -17,7 +17,7 @@ title: CSCI 662 - Advanced Natural Language Processing
 tagline: CS662
 description: Advanced Natural Language Processing
 author: Jon May
-baseurl: '/'
+baseurl: ''https://Elanmarkowitz.github.io/USC-CS662/'
 url: 'https://Elanmarkowitz.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
