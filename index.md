@@ -44,7 +44,7 @@ Optional: [Speech and Language Processing 3rd edition - Jurafsky, Martin](https:
 10% - Posted questions before each in-class selected paper presentation \
 10% - In-class selected paper presentation \
 30% - Three Homeworks (10% each) \
-40% - Project, comprising proposal (10%), final conference-quality paper (15%), and 15-minute in-class presentation (15%) (may be done in small groups). \
+40% - Project, comprising proposal (5%), first version of report (5%), in-class presentation (10%), and final report (20%). Done in small groups. \
 Final report is due December 13, 2021, 4:00 PM PST
 
 ### Contact us
