@@ -36,6 +36,19 @@ Optional: [Introduction to Deep Learning - Charniak](https://mitpress.mit.edu/bo
 
 Optional: [Speech and Language Processing 3rd edition - Jurafsky, Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
+### Grading
+
+10% - In class participation \
+10% - Posted questions before each in-class selected paper presentation \
+10% - In-class selected paper presentation \
+30% - Three Homeworks (10% each) \
+40% - Project, comprising proposal (10%), final conference-quality paper (15%), and 15-minute in-class presentation (15%) (may be done in small groups). \
+Final report is due December 13, 2021, 4:00 PM PST
+
+### Contact us
+
+On Piazza, Slack, or in class/office hours. Please do not email (unless notified otherwise).
+
 ### Topics 
 (subject to change per instructor/class whim) (will not be presented in this order):
 
