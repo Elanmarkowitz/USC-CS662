@@ -1,0 +1,5 @@
+<div class="resource">
+  {% assign resource_path = site.baseurl | append: page.subpath | append: page.filename %}
+  <a href="{{ resource_path }}" target="_blank">{{ page.name }}</a>
+  {{ content }}
+</div>

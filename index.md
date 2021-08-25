@@ -30,6 +30,12 @@ Monday and Wednesday 3:30–5:20 pm, KAP 166
 ### Textbook
 Required: [Natural Language Processing - Eisenstein](https://mitpress.mit.edu/books/introduction-natural-language-processing)
 -- or [free version](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Optional: [Introduction to Deep Learning - Charniak](https://mitpress.mit.edu/books/introduction-deep-learning)
+-- first three chapters [here](https://cs.brown.edu/courses/csci1460/assets/files/deep-learning.pdf)
+
+Optional: [Speech and Language Processing 3rd edition - Jurafsky, Martin](https://web.stanford.edu/~jurafsky/slp3/)
+
 ### Topics 
 (subject to change per instructor/class whim) (will not be presented in this order):
 

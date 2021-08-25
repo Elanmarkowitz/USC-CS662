@@ -2,10 +2,15 @@
 title: Schedule of Classes
 ---
 
+
+{% assign filedir = site.baseurl | append: page.subpath %} 
+{% assign notes_path = filedir | append: "notes/" %} 
+{% assign project = filedir | append: "project_proposal.pdf" %}
+
 Aug 23
 : intro, applications
 : Eisenstein 1
-: **project assignment out (due 9/1)**{: .label}
+: [**project assignment out (due 9/1)**{: .label}]({{project}}){:target="_blank"}
 
 
 Aug 25
@@ -24,7 +29,7 @@ Sep 1
 : Perceptron, Logistic Regression
 : Eisenstein 2.2, 2.4,\
 Charniak 1.
-: **project proposal due**{: .label .label-red }
+: [**project proposal due**{: .label .label-red }]({{project}}){:target="_blank"}
 
 Sep 6
 : LABOR DAY NO CLASS
@@ -99,7 +104,7 @@ Oct 27
 Nov 1
 : Text Games and Reinforcement Learning
 : 
-: **Project Report Version 1 due**{: .label .label-red}
+: [**Project Report Version 1 due**{: .label .label-red}](({{project}}){:target="_blank"})
 
 Nov 3
 : Power and Ethics

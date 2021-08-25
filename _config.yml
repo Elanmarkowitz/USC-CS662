@@ -38,6 +38,7 @@ collections:
   modules:
   schedules:
   announcements:
+  resources:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -45,12 +46,13 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: 'assets/images/'
   - scope:
       path: ''
       type: modules
     values:
       layout: module
+      subpath: 'assets/files/'
   - scope:
       path: ''
       type: schedules
@@ -61,6 +63,13 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: resources
+    values:
+      layout: resource
+      subpath: 'assets/files/'
+
 
 compress_html:
   clippings: all
