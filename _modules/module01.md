@@ -27,7 +27,7 @@ Aug 30
 
 Sep 1
 : Perceptron, Logistic Regression
-: Eisenstein 2.2, 2.4,\
+: Eisenstein 2.2, 2.3, 2.4,\
 Charniak 1.
 : [**project proposal due**{: .label .label-red }]({{project}}){:target="_blank"}
 
@@ -42,7 +42,7 @@ Sep 8
 
 Sep 13
 : language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
-: Eisenstein 6, 18.1, 18.2
+: Eisenstein 6, 18.1
   
 Sep 15
 : YOM KIPPUR NO CLASS
@@ -50,7 +50,7 @@ Sep 15
 
 Sep 20
 : Statistical, Neural Machine Translation, summarization, generation
-: Eisenstein 18.3, 19.1, 19.2
+: Eisenstein 18.2, 18.3, 19.1, 19.2
   
 Sep 22
 : Transformers
