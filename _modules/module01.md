@@ -83,16 +83,17 @@ Oct 13
 : Eisenstein 13, 14.
   
 Oct 18
+: Blade Runner NLP/Bertology
+: 
+
+Oct 20
 : Information Extraction: Entity/Relation, CRF
 : Eisenstein 17.1, 17.2
 
-Oct 20
-: Information Extraction: Events, Zero-shot
-: Eisenstein 17.3
 
 Oct 25
-: Blade Runner NLP/Bertology
-: 
+: Information Extraction: Events, Zero-shot
+: Eisenstein 17.3
 : **HW2 due**{: .label .label-red}
 
 Oct 27
