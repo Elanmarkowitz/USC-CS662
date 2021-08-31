@@ -14,20 +14,19 @@ Aug 23
 
 
 Aug 25
-: end of intro, probability basics
-: Eisenstein Appendix A,\
-[Goldwater probability tutorial](http://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf)
+: end of intro
+
 
 Aug 30
-: ethics, naive bayes, text processing
-: Eisenstein 2.1,\
+: probability basics, ethics, text processing
+: [Goldwater probability tutorial](http://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf),\
 [Nathan Schneider's unix notes](https://github.com/nschneid/unix-text-commands),\
 [Unix for poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf),\
 [sculpting text](http://matt.might.net/articles/sculpting-text/)
 
 Sep 1
-: Perceptron, Logistic Regression
-: Eisenstein 2.2, 2.3, 2.4,\
+: Naive Bayes, Perceptron, Logistic Regression
+: Eisenstein 2.1, 2.2, 2.3, 2.4,\
 Charniak 1.
 : [**project proposal due**{: .label .label-red }]({{project}}){:target="_blank"}
 
@@ -111,7 +110,7 @@ Nov 3
 : 
 
 Nov 8
-: Guest Lecture TBD
+: Knowledge Graphs (Guest Lecture Elan Markowitz)
 : 
 
 Nov 10
