@@ -38,18 +38,22 @@ Aug 23
 : **project assignment out (due 9/1)**{: .label}
 
 Aug 25
-: end of intro, probability basics
-  : Eisenstein Appendix A, [Goldwater probability tutorial](http://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf)
+: end of intro
+  : 
 
 Aug 30
-: ethics, naive bayes, text processing
-  : Eisenstein 2.1, [Nathan Schneider's unix notes](https://github.com/nschneid/unix-text-commands), [Unix for poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf), [sculpting text](http://matt.might.net/articles/sculpting-text/)
+: probability basics, ethics, text processing
+  : [Goldwater probability tutorial](http://homepages.inf.ed.ac.uk/sgwater/teaching/general/probability.pdf), 
+  [Nathan Schneider's unix notes](https://github.com/nschneid/unix-text-commands), 
+  [Unix for poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf), 
+  [sculpting text](http://matt.might.net/articles/sculpting-text/)
 
 Sep 1
-: Perceptron, Logistic Regression
+: Naive Bayes, Perceptron, Logistic Regression
   : Eisenstein 2.2, 2.3, 2.4, Charniak 1.
     : Jon -- [Preregistering NLP research](https://urldefense.com/v3/__https://aclanthology.org/2021.naacl-main.51.pdf__;!!LIr3w8kk_Xxm!7IHnc2yrXOYRMf16ULiIu7L_OnNq0Bi05vwoghJcCoWmqMQi0sLcotZFuISGebs$){:target="_blank"}
 : **project proposal due**{: .label .label-red }
+
 
 Sep 6
 : LABOR DAY NO CLASS
@@ -104,16 +108,17 @@ Oct 13
   : Eisenstein 13, 14.
   
 Oct 18
+: Blade Runner NLP/Bertology
+  : 
+
+Oct 20
 : Information Extraction: Entity/Relation, CRF
   : Eisenstein 17.1, 17.2
 
-Oct 20
-: Information Extraction: Events, Zero-shot
-  : Eisenstein 17.3
 
 Oct 25
-: Blade Runner NLP/Bertology
-  : 
+: Information Extraction: Events, Zero-shot
+  : Eisenstein 17.3
 : **HW2 due**{: .label .label-red}
 
 Oct 27
@@ -131,7 +136,7 @@ Nov 3
   : 
 
 Nov 8
-: Guest Lecture TBD
+: Knowledge Graphs (Guest Lecture Elan Markowitz)
   : 
 
 Nov 10
