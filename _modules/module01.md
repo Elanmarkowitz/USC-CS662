@@ -68,6 +68,7 @@ Sep 8
 Sep 13
 : language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
   : Eisenstein 6, 18.1
+  : Jiageng -- [A Disentangled Adversarial Neural Topic Model for Separating Opinions from Plots in User Reviews](https://aclanthology.org/2021.naacl-main.228/)
   
 Sep 15
 : YOM KIPPUR NO CLASS
