@@ -16,8 +16,6 @@
   >dl {
     border-bottom: $border $border-color;
     border-top: $border $border-color;
-    display: grid;
-    grid-template-columns: max-content 1fr;
     margin: $sp-2 (-$sp-4);
 
     &:first-child {
@@ -29,7 +27,8 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      display: grid;
+      grid-template-columns: max-content auto;
     }
 
     %module-item {
@@ -75,21 +74,39 @@
         margin: 0;
       }
 
-      dl {
-        display: flex;
-        flex-direction: column;
+      >dl {
 
         @include mq(sm) {
+          display: grid;
+          grid-template-columns: 1fr 2fr;
           flex-direction: row;
         }
 
-        dt {
+        >dt {
           flex: 0 0 62.5%;
           margin: 0;
         }
 
         dd {
-          margin: 0;
+
+          dl{
+
+            @include mq(sm) {
+              display: grid;
+              grid-template-columns: 1fr 1fr;
+              flex-direction: row;
+            }
+
+            dt {
+              font-weight: normal;
+            }
+
+            dd {
+              font-weight: normal;
+            }
+
+          }
+
         }
       }
     }
