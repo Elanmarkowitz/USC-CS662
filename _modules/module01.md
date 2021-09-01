@@ -188,4 +188,4 @@ Nov 29
 Dec 1
 : Project presentations
   : 
-    : Abhinav -- [Robust Question Answering Through Sub-part Alignment](https://aclanthology.org/2021.naacl-main.98) 
+    : Abhinav -- [Robust Question Answering Through Sub-part Alignment](https://aclanthology.org/2021.naacl-main.98)
