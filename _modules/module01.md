@@ -134,14 +134,14 @@ Oct 25
 : **HW2 due**{: .label .label-red}
 
 Oct 27
-: Dialogue
-  : Eisenstein 19.3
+: Question Answering and Asking
+  : Eisenstein 17.5
     : Jincheng -- [Abstract Meaning Representation Guided Graph Encoding and Decoding for Joint Information Extraction](https://aclanthology.org/2021.naacl-main.4/)
 : **HW3 out (due 11/17)**{: .label}
 
 Nov 1
-: Text Games and Reinforcement Learning
-  : 
+: Dialogue
+  : Eisenstein 19.3
     : Sophie -- [Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks](https://aclanthology.org/2021.naacl-main.306)
 : [**Project Report Version 1 due**{: .label .label-red}](({{project}}){:target="_blank"})
 
@@ -156,7 +156,7 @@ Nov 8
     : Liqiu -- [Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs](https://aclanthology.org/2021.naacl-main.109)
 
 Nov 10
-: Guest Lecture TBD
+: Text Games and Reinforcement Learning (Guest Lecture [Jesse Thomason](https://jessethomason.com/))
   :  
     : Aleksei -- [How to Motivate Your Dragon: Teaching Goal-Driven Agents to Speak and Act in Fantasy Worlds](https://aclanthology.org/2021.naacl-main.64/)
 
@@ -166,7 +166,7 @@ Nov 15
     : Haoming -- [Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://aclanthology.org/2021.naacl-main.133/)
 
 Nov 17
-: TBD
+: Generalization and Robustness (Guest Lecture [Robin Jia](https://robinjia.github.io/))
   : 
     : Yi -- [Generating An Optimal Interview Question Plan Using A Knowledge Graph And Integer Linear Programming](https://aclanthology.org/2021.naacl-main.160/)
 : **HW3 due**{: .label .label-red}
