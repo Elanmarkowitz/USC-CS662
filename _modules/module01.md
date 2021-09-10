@@ -60,13 +60,13 @@ Sep 6
   : 
 
 Sep 8
-: Nonlinear classifiers, backpropagation, gradient descent
+: Perceptron, Logistic Regression, Nonlinear classifiers
   : Eisenstein 3
     : Julie -- [Adversarial Learning for Zero-Shot Stance Detection on Social Media](https://aclanthology.org/2021.naacl-main.379.pdf){:target="_blank"}
 : **HW1 out (due 9/29)**{: .label}
 
 Sep 13
-: language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
+: Nonlinear classifiers, backpropagation, gradient descent, language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
   : Eisenstein 6, 18.1
     :  Jiageng -- [A Disentangled Adversarial Neural Topic Model for Separating Opinions from Plots in User Reviews](https://aclanthology.org/2021.naacl-main.228/)
   
