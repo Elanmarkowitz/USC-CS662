@@ -142,7 +142,7 @@ Oct 27
 Nov 1
 : Dialogue
   : Eisenstein 19.3
-    : Sophie -- [Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks](https://aclanthology.org/2021.naacl-main.306)
+    : Hassan -- [A Frustratingly Easy Approach for Entity and Relation Extraction](https://aclanthology.org/2021.naacl-main.5)
 : [**Project Report Version 1 due**{: .label .label-red}](({{project}}){:target="_blank"})
 
 Nov 3
