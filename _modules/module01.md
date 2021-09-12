@@ -108,8 +108,8 @@ Oct 6
 
 Oct 11
 : arc-eager, evaluation, human annotation
-  :  
-    : Fiona -- [Causal Effects of Linguistic Properties](https://aclanthology.org/2021.naacl-main.323/)
+  : Fiona -- [Causal Effects of Linguistic Properties](https://aclanthology.org/2021.naacl-main.323/) OR
+  : Adam -- [D2S: Document-to-Slide Generation Via Query-Based Text Summarization](https://aclanthology.org/2021.naacl-main.111/)
 
 Oct 13
 : semantics: word sense, propbank, amr, distributional
