@@ -66,7 +66,7 @@ Sep 8
 : **HW1 out (due 9/29)**{: .label}
 
 Sep 13
-: Nonlinear classifiers, backpropagation, gradient descent, language models: ngram, feed-forward, recurrent Machine Translation history, evaluation
+: Nonlinear classifiers, backpropagation, gradient descent
   : Eisenstein 6, 18.1
     :  Jiageng -- [A Disentangled Adversarial Neural Topic Model for Separating Opinions from Plots in User Reviews](https://aclanthology.org/2021.naacl-main.228/)
   
@@ -75,28 +75,28 @@ Sep 15
   : 
 
 Sep 20
-: Statistical, Neural Machine Translation, summarization, generation
+: language models: ngram, feed-forward
   : Eisenstein 18.2, 18.3, 19.1, 19.2
     : Preni -- [The Importance of Modeling Social Factors of Language: Theory and Practice](https://aclanthology.org/2021.naacl-main.49/)
   
 Sep 22
-: Transformers
+: recurrent LM, MT history 
   : [Attention is all you need](https://arxiv.org/abs/1706.03762), [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
     : Anirudh -- [End-to-end ASR to jointly predict transcriptions and linguistic annotations](https://aclanthology.org/2021.naacl-main.149/)
 
 Sep 27
-: Large Contextualized Language Models (ElMo, BERT, GPT-N, etc.)
+: MT evaluation, Statistical MT
   : [Illustrated BERT, ElMo, and co.](http://jalammar.github.io/illustrated-bert/)
     : Taufeq -- [Smoothing and Shrinking the Sparse Seq2Seq Search Space](https://aclanthology.org/2021.naacl-main.210/)
   
 Sep 29
-: POS tags, HMMs
+: Neural Machine Translation, Transformers
   : Eisenstein 7
     : Zhuochen -- [Continual Learning for Neural Machine Translation](https://aclanthology.org/2021.naacl-main.310/)
 : **HW1 due**{: .label .label-red}
 
 Oct 4
-: constituencies, cky, treebank
+: Large Contextualized Language Models (ElMo, BERT, GPT-N, etc.), POS tags, HMMs, constituencies, cky, treebank
   : Eisenstein 9.2, 10
     : Fei -- [Counterfactual Data Augmentation for Neural Machine Translation](https://aclanthology.org/2021.naacl-main.18/)
 : **HW2 out (due 10/25)**{: .label}
