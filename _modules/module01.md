@@ -175,6 +175,7 @@ Nov 22
 : TBD
   : 
     : Jayanth -- [Knowledge Router: Learning Disentangled Representations for Knowledge Graphs](https://aclanthology.org/2021.naacl-main.1)
+    : Hitesh -- [Dynamically Disentangling Social Bias from Task-Oriented Representations with Adversarial Attack](https://aclanthology.org/2021.naacl-main.293/)
 
 Nov 24
 : THANKSGIVING BREAK; NO CLASS
